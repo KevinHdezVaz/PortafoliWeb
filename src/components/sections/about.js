@@ -146,7 +146,7 @@ const About = () => {
               Hola, mi nombre es Kevin, Desarrollador Android Nativo y Frontend. Vivo en Guerrero, México.
       <br></br>
       <br></br>
-      Me apasionan la tecnología, la curiosidad me hizo el preguntarme el "como se hace esto", tomando amor por el uso de las TICs para resolver problemas cotidianos.
+      Me apasiona mucho la tecnología, la curiosidad me hizo el preguntarme el "como se hace esto", tomando amor por el uso de las TICs para resolver problemas cotidianos.
 4 años en el mundo de la programación, actualmente trabajo con otras tecnologías tanto en entornos para web (Angular, Laravel) como para móviles (Java, Kotlin).
 <br></br>He desarrollado aplicaciones de éxito con mas de 100k descargas en la Play Store.          </p>
 
