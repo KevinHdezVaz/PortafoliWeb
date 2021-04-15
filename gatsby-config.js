@@ -5,10 +5,11 @@ module.exports = {
     title: 'Kevin Hernandez',
     description:
       'Kevin Hernandez es un Desarrollador Nativo en Android con ganas de trabajar para Flutter.',
-    siteUrl: 'https://brittanychiang.com', // No trailing slash allowed!
+    siteUrl: 'https://kevinhernandez.netlify.app', // No trailing slash allowed!
     image: '/og.png', // Path to your image you placed in the 'static' folder
     twitterUsername: '@KevinHVaz',
   },
+  
   plugins: [
     `gatsby-plugin-react-helmet`,
     `gatsby-plugin-styled-components`,
