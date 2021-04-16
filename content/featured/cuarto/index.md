@@ -13,4 +13,4 @@ tech:
 showInProjects: true
 ---
 
-Pagina web que desarrolle para mi aplicacion movil, con diseño atractivo a la vista y animaciones para hacerlo mas amigable.
+App movil que desarrolle para Android, permite descargar stickers para whatsapp, tambien le agrege la opcion de descarga los estados de whats (foto y video) ya que al tomarle captura de pantalla desde el telefono se pierde la calidad.
