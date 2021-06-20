@@ -3,7 +3,7 @@ date: '1'
 title: 'Pagina Web - iFormulas'
 cover: './sitio.png'
 github: 'https://github.com/KevinHdezVaz/PaginaWebIFormulas-2'
-external: 'https://iformulas.com.mx'
+external: 'https://iformulas.netlify.app/'
 tech:
   - VS Code
   - HMTL

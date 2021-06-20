@@ -6,7 +6,7 @@ module.exports = {
       name: 'GitHub',
       url: 'https://github.com/KevinHdezVaz',
     },
-   
+
     {
       name: 'Twitter',
       url: 'https://twitter.com/KevinHVaz',
@@ -15,7 +15,6 @@ module.exports = {
       name: 'Linkedin',
       url: 'https://www.linkedin.com/in/kevin-hernandez-vazquez/',
     },
-   
   ],
 
   navLinks: [
@@ -24,7 +23,7 @@ module.exports = {
       url: '/#about',
     },
     {
-      name: 'Educacion',
+      name: 'Educación',
       url: '/#jobs',
     },
     {
